@@ -179,6 +179,12 @@
     margin: 0 auto;
     border-top: 3px solid #b6975b;
   }
+
+  .container-p {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    text-align: center;
+  }
   
   h2 {
     font-family: 'Playfair Display', serif;
@@ -187,6 +193,10 @@
     color: #333;
     margin-bottom: 2rem;
     text-align: center;
+  }
+
+  .container-h2 {
+    margin-bottom: 1rem;
   }
   
   .welcome-description{
