@@ -353,7 +353,10 @@
   footer {
     background: #333;
     color: #fff;
-    padding: 3rem 1rem;
+    padding-top: 24px;
+    padding-bottom: 6px;
+    padding-left: 16px;
+    padding-right: 16px;
     text-align: center;
   }
   
@@ -379,7 +382,8 @@
   }
   
   footer .footer-links {
-    margin: 1rem 0;
+    margin-top: 12px;
+    margin-bottom: 12px;
   }
   
   footer .footer-links a {
@@ -391,4 +395,14 @@
   
   footer .footer-links a:hover {
     color: #fff;
+  }
+
+  .credits {
+    /* font-family: 'Playfair Display', serif; */
+    color: #e0e0e0;
+  }
+
+  .credits-a {
+    color: red;
+    /* font-family: 'Playfair Display', serif; */
   }
